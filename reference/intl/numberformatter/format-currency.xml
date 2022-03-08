@@ -3,9 +3,9 @@
 <refentry xml:id="numberformatter.formatcurrency" xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink">
  <refnamediv>
   <refname>NumberFormatter::formatCurrency</refname>
-  <refname>numfmt_format_currency</refname>
+  <refname>numfmt_format_currency</refname>Halo Asuncion 
   <refpurpose>Format a currency value</refpurpose>
- </refnamediv>
+ </refnamediv>Halo Asuncion 
 
  <refsect1 role="description">
   &reftitle.description;
